@@ -66,7 +66,7 @@ next-level-assignment-ii.vercel.app
 * Video Explanation (Public Link) :
 
 ```http
-assignment-two-blue.vercel.app
+https://drive.google.com/file/d/1SnE2hXnRylNdoQzM-00trNfs6f1T7TnL/view?usp=sharing
 ```
 * Professional README file Link :
 ```http
