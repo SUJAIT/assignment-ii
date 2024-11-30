@@ -70,5 +70,5 @@ assignment-two-blue.vercel.app
 ```
 * Professional README file Link :
 ```http
-https://github.com/SUJAIT/assignment-ii/edit/main/README.md
+https://github.com/SUJAIT/assignment-ii
 ```
