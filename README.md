@@ -57,11 +57,11 @@ This Project backend api built with Nodejs,Expressjs,typScript and MongoDB. The 
 #### Projects Related All Links :
 * GitHub Repository Link :
 ```http
- https://github.com/SUJAIT/Assignment-Two.git
+https://github.com/SUJAIT/next-level-assignment-ii.git
 ```
 * Live Deployment Link  :
 ```http
-assignment-two-blue.vercel.app
+next-level-assignment-ii.vercel.app
 ```
 * Video Explanation (Public Link) :
 
@@ -70,5 +70,5 @@ assignment-two-blue.vercel.app
 ```
 * Professional README file Link :
 ```http
-assignment-two-blue.vercel.app
+https://github.com/SUJAIT/assignment-ii/edit/main/README.md
 ```
