@@ -38,10 +38,6 @@ This Project backend api built with Nodejs,Expressjs,typScript and MongoDB. The 
 ## 📘 Books
 
 
-```http
-  GET /api/items
-```
-
 | Method | Endpoint     | **Description** |
 | :-------- | :------- | :------------------------- |
 | `POST` | `/api/products` | Create a new book |
