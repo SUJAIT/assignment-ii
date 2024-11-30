@@ -51,8 +51,8 @@ This Project backend api built with Nodejs,Expressjs,typScript and MongoDB. The 
 
 |Method|Endpoint|Description|
 | :-------- | :------- | :-------------------------------- |
-| `GET`| `/api/orders` | Place a new order |
-| `POST`| `/api/orders/calculate` | Calculate total revenue |
+| `POST`| `/api/orders` | Place a new order |
+| `GET`| `/api/orders/calculate` | Calculate total revenue |
 
 #### Projects Related All Links :
 * GitHub Repository Link :
